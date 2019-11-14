@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-/target/
+
+
 =======
 # Compiled class file
 *.class
@@ -25,8 +24,6 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
->>>>>>> origin/master
-=======
 # Compiled class file
 *.class
 
@@ -50,4 +47,3 @@ hs_err_pid*
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
->>>>>>> origin/master
